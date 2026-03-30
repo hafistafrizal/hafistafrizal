@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=30&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Hafist+Afrizal;It's+nice+to+meet+you!;I'm+straight" alt="Typing SVG" /></a>
 </div>
 
-###
+####
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -37,11 +37,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
 </div>
 
+#####
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HafistAfrizal.HafistAfrizal&left_color=maroon&right_color=maroon&left_text=Human" height="25"/>
 </div>
 
 <div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
