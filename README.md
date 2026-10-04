@@ -102,7 +102,7 @@ Turns out, the skills transfer pretty well:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,php&theme=dark" alt="languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,laravel,tailwind,bootstrap&theme=dark" alt="frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,laravel,nodejs,tailwind,bootstrap&theme=dark" alt="frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,mint,vercel,figma&theme=dark" alt="tools" />
   <!-- <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="48" alt="canva" /> -->
 </div>
