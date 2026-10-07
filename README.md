@@ -46,7 +46,7 @@
 </div>
 
 <!-- Lapisan BAWAH banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7C3AED,100:EB5775&section=footer&reversal=true" width="100%" alt="header bottom" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7C3AED,100:EB5775&section=footer&reversal=true" width="100%" alt="header bottom" /> -->
 
 <br/>
 
@@ -61,7 +61,6 @@
   "now": "Full Stack Developer & System Architecture nerd",
   "philosophy": "Stoicism",
   "fuel": ["coffee ☕", "curiosity", "good commit messages"],
-  "status": "building in public 🚀"
 }
 ```
 
@@ -104,7 +103,7 @@ Turns out, the skills transfer pretty well:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,php&theme=dark" alt="languages" /><br/>
   <img src="https://skillicons.dev/icons?i=react,vue,laravel,nodejs,tailwind,bootstrap&theme=dark" alt="frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,mint,vercel,figma&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,git,github,docker,mint,vercel,figma&theme=dark" alt="tools" />
   <!-- <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="48" alt="canva" /> -->
 </div>
 
