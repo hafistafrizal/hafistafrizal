@@ -87,15 +87,9 @@ Turns out, the skills transfer pretty well:
 <br/>
 
 <!-- ═══════════════ CURRENT ═══════════════ -->
-## 🎯 Right Now
 
-- 🔭 **Building:** `[your current project]`
-- 🌱 **Learning:** `[e.g. system design, Laravel, Vue, TypeScript]`
-- 👯 **Open to collab on:** full stack projects, open source, and anything fun
-- 💬 **Ask me about:** full stack dev, career switching, mechanics → tech
-- ⚡ **Fun fact:** I can fix your motorbike *and* your `undefined is not a function`
 
-<br/>
+<!-- <br/> -->
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠 Tech Stack
